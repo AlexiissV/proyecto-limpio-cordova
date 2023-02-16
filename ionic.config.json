@@ -1,0 +1,7 @@
+{
+  "name": "ifnb-recepcion",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
